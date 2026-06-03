@@ -156,7 +156,7 @@ Update the database credentials in `db.py`.
 Start the FastAPI server:
 
 ```bash
-uvicorn app:app --reload
+python -m uvicorn main:app --reload
 ```
 
 Server URL:
@@ -215,6 +215,6 @@ Through this project, the following concepts were implemented:
 
 **Nandini**
 
-B.Tech Student | Python Backend Developer
+Python Backend Developer
 
-Skills: Python, FastAPI, MySQL, HTML, CSS, JavaScript
+Skills: Python, FastAPI, Flask, Django, MySQL, HTML, CSS, JavaScript
