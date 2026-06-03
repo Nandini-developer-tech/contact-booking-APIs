@@ -41,7 +41,7 @@ contact_book/
 └── README.md
 ```
 
-### app.py
+### main.py
 
 Contains all API endpoints and business logic.
 
