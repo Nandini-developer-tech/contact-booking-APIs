@@ -35,7 +35,7 @@ The project demonstrates FastAPI fundamentals such as API routing, request valid
 ```text
 contact_book/
 │
-├── app.py
+├── main.py
 ├── db.py
 ├── models.py
 └── README.md
