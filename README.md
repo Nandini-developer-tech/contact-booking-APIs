@@ -12,7 +12,7 @@ The project demonstrates FastAPI fundamentals such as API routing, request valid
 
 * Add a new contact
 * View all contacts
-* View a contact by ID
+* View a contact by ID   
 * Update contact details   
 * Delete a contact
 * Search contacts by name
