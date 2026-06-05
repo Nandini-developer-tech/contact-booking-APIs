@@ -26,7 +26,7 @@ The project demonstrates FastAPI fundamentals such as API routing, request valid
 * FastAPI
 * MySQL
 * Pydantic
-* Uvicorn
+* Uvicorn  
 
 ---
 
