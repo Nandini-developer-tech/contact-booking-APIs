@@ -51,7 +51,7 @@ Establishes a connection with the MySQL database.
 
 ### models.py
 
-Contains Pydantic models used for request validation.
+Contains Pydantic models used for request validation.    
 
 ---
 
