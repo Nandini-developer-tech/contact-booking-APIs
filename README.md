@@ -72,7 +72,7 @@ CREATE TABLE contacts(
 
 ## API Endpoints
 
-### Add Contact
+### Add Contact          
 
 ```http
 POST /contact
