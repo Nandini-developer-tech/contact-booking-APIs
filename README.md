@@ -134,7 +134,7 @@ cd contact_book
 ### Install Dependencies
 
 ```bash
-pip install fastapi uvicorn mysql-connector-python
+pip install fastapi uvicorn mysql-connector-python        
 ```
 
 ### Configure Database
