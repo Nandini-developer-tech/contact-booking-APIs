@@ -1,6 +1,6 @@
 # Contact Book API
 
-## Project Overview
+## Project Overview     
 
 Contact Book API is a backend application developed using FastAPI and MySQL. It allows users to manage contact information by performing Create, Read, Update, Delete, and Search operations through RESTful APIs.         
 
