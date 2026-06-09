@@ -94,7 +94,7 @@ Retrieves all contacts from the database.
 GET /contacts/{contact_id}
 ```
 
-Retrieves a specific contact using its ID.
+Retrieves a specific contact using its ID.     
 
 ### Update Contact
 
