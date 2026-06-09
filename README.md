@@ -207,7 +207,7 @@ Through this project, the following concepts were implemented:
 * Pagination
 * Email Validation
 * Contact Import and Export
-* Profile Images for Contacts
+* Profile Images for Contacts         
 
 ---
 
