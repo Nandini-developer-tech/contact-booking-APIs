@@ -16,7 +16,7 @@ The project demonstrates FastAPI fundamentals such as API routing, request valid
 * Update contact details   
 * Delete a contact
 * Search contacts by name
-* Automatic API documentation using Swagger UI
+* Automatic API documentation using Swagger UI     
 
 ---
 
