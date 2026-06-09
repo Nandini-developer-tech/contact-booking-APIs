@@ -43,7 +43,7 @@ contact_book/
 
 ### main.py
 
-Contains all API endpoints and business logic.       
+Contains all API endpoints and business logic.              
 
 ### db.py
 
